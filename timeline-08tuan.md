@@ -21,11 +21,10 @@
 - Spring Boot (MVC Architecture)
 - Thymeleaf Template Engine
 - MySQL / JPA (Hibernate)
-- Authentication & Authorization (Spring Security – Session-based)
 
 **Bài toán / nội dung áp dụng cụ thể:** 
   Xây dựng hệ thống website bán nước hoa theo mô hình MVC gồm:
-- Trang người dùng: Xem danh sách/ chi tiết sản phẩm, tìm kiếm sản phẩm, thêm vào giỏ hàng, đặt hàng, quản lý đơn hàng cá nhân
+- Trang người dùng: Xem danh sách / chi tiết sản phẩm, tìm kiếm sản phẩm, thêm vào giỏ hàng, đặt hàng, quản lý đơn hàng cá nhân
 - Trang admin: Quản lý sản phẩm (CRUD)/ danh mục / đơn hàng / người dùng
 - Kỹ thuật sử dụng: Spring Boot MVC, Thymeleaf, Spring Security phân quyền USER/ADMIN, kết nối MySQL bằng JPA (Hibernate)
 
