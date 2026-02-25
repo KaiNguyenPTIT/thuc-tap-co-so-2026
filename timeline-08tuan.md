@@ -12,25 +12,22 @@
 ---
 
 ## 2. Đăng ký chủ đề thực tập
-**Định hướng (roadmap.sh):**
-- [x] Cải thiện / tập trung vào một kỹ năng
-- [ ] Kỹ năng mới / trend
+**Định hướng (roadmap.sh): dev backend**
+- [] Cải thiện / tập trung vào một kỹ năng
+- [x] Kỹ năng mới / trend
 - [ ] Nghiên cứu / đề tài / dự án
 
 **1–3 kỹ năng chính:**  
-- Spring Boot (Backend Framework)
-- RESTful API
+- Spring Boot (MVC Architecture)
+- Thymeleaf Template Engine
 - MySQL / JPA (Hibernate)
-- Authentication & Authorization (JWT)
+- Authentication & Authorization (Spring Security – Session-based)
 
 **Bài toán / nội dung áp dụng cụ thể:** 
-Xây dựng hệ thống website bán nước hoa gồm:
-
-- Trang người dùng: xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng
-- Trang admin: quản lý sản phẩm, danh mục, đơn hàng, tài khoản
-- Xây dựng REST API bằng Spring Boot
-- Phân quyền người dùng (User/Admin)
-- Kết nối cơ sở dữ liệu MySQL
+  Xây dựng hệ thống website bán nước hoa theo mô hình MVC gồm:
+- Trang người dùng: Xem danh sách/ chi tiết sản phẩm, tìm kiếm sản phẩm, thêm vào giỏ hàng, đặt hàng, quản lý đơn hàng cá nhân
+- Trang admin: Quản lý sản phẩm (CRUD)/ danh mục / đơn hàng / người dùng
+- Kỹ thuật sử dụng: Spring Boot MVC, Thymeleaf, Spring Security phân quyền USER/ADMIN, kết nối MySQL bằng JPA (Hibernate)
 
 **Link GitHub repository (nếu có):**  
 **Làm việc nhóm (nếu có):**
