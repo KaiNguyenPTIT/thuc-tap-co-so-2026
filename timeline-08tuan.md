@@ -22,9 +22,8 @@
 - RESTful API
 - MySQL / JPA (Hibernate)
 - Authentication & Authorization (JWT)
-**Bài toán / nội dung áp dụng cụ thể:**  
-### Bài toán / nội dung áp dụng cụ thể:
 
+**Bài toán / nội dung áp dụng cụ thể:** 
 Xây dựng hệ thống website bán nước hoa gồm:
 
 - Trang người dùng: xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng
