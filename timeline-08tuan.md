@@ -13,7 +13,7 @@
 
 ## 2. Đăng ký chủ đề thực tập
 **Định hướng (roadmap.sh): dev backend**
-- [] Cải thiện / tập trung vào một kỹ năng
+- [ ] Cải thiện / tập trung vào một kỹ năng
 - [x] Kỹ năng mới / trend
 - [ ] Nghiên cứu / đề tài / dự án
 
